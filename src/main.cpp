@@ -1,18 +1,3 @@
-/*
-  Shruti Pasumarti
-  Aswin Chander Aravind Kumar
-  Spring 2024
-  CS 5330 Computer Vision
-
-  Date: 11th February,2024
-
-  Purpose:Given a target image path based on the task number the main function invokes the functions.h to perfrom
-  different tasks thereby reading image files from a directory, performing the specified task,
-  and then saving the results in a results directly along with the task number
-
-  Time travel days used : 1 day
-*/
-
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <vector>
