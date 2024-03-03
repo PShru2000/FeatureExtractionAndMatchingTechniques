@@ -1,17 +1,3 @@
-/*
-  Shruti Pasumarti
-  Aswin Chander Aravind Kumar
-  Spring 2024
-  CS 5330 Computer Vision
-
-  Date: 11th February,2024
-  Purpose: This helps us to use the defined functions in different cpp files. We are defining various functions 
-  in order to perform features extraction by computing distances ( computing similarities) using various techniques
-  
-  Time travel days used : 1 day
-*/
-
-
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
