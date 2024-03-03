@@ -1,18 +1,3 @@
-/*
-  Shruti Pasumarti
-  Aswin Chander Aravind Kumar
-  Spring 2024
-  CS 5330 Computer Vision
-
-  Date: 11th February,2024
-  Purpose: Using different functions we are able to perform tasks such as feature Matching , Histogram Matching ,
-  Texture Analysis. Additionally we have created a pipeline functions to have a structured format such that giving 
-  different keystrokes leads to execution of different tasks. We have also created a method to save the target and matched
-  images obtained. Execution computation time is also achieved in order to understand the superiority of one method over the other
-
-  Time travel days used : 1 day
-*/
-
 #include <filesystem>
 #include <iostream>
 #include "functions.h"
