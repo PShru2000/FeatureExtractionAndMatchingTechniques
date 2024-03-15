@@ -67,9 +67,11 @@ Please refer to the **[outputs](https://github.com/PShru2000/FeatureExtractionAn
 ## Results Format
 
 **Matched Images** 
+
 Format: match_[TASK_NUMBER]_[ORDER]
 
 **Target Images**
+
 Format: target_[TASK_NUMBER]_[ORDER]
 
 ORDER refers to the ranking of the image based on its similarity to the target image, with Order Number indicating the closest match.
