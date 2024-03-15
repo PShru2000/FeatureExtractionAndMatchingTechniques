@@ -64,6 +64,16 @@ This command-line interface allows for flexible and efficient experimentation wi
 
 Please refer to the **[outputs](https://github.com/PShru2000/FeatureExtractionAndMatchingTechniques/tree/main/results)** folder for results
 
+## Results Format
+
+**Matched Images** 
+Format: match_[TASK_NUMBER]_[ORDER]
+
+**Target Images**
+Format: target_[TASK_NUMBER]_[ORDER]
+
+ORDER refers to the ranking of the image based on its similarity to the target image, with Order Number indicating the closest match.
+
 ## Conclusion
 
 Through the successful completion of these tasks, the project not only achieves its goal of matching images based on classic features and deep network embeddings but also lays a solid foundation for further exploration in the field of computer vision. The implemented system showcases the potential of combining traditional image analysis techniques with modern deep learning approaches, opening avenues for advanced pattern recognition and image classification applications.
