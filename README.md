@@ -64,16 +64,16 @@ This command-line interface allows for flexible and efficient experimentation wi
 
   <table>
   <tr>
-    <td><img src="Results/Input Image.png" alt="Input Image" width="300"/></td>
-    <td><img src="Results/Thresholded Image.png" alt="Thresholded Image" width="300"/></td>
-    <td><img src="Results/Cleaning Up Binary Image.png" alt="Cleaning Up Binary Image" width="300"/></td>
-    <td><img src="Results/Segmented Image.png" alt="Segmented Image" width="300"/></td>
-    <td><img src="Results/Boundingboxaroundimage.png" alt="Boundingboxaroundimage" width="300"/></td>
-    <td><img src="Results/TrainingData.png" alt="TrainingData" width="300"/></td>
-    <td><img src="Results/CSVfile.png" alt="CSVfile" width="300"/></td>
-    <td><img src="Results/classification.png" alt="classification" width="300"/></td>
-    <td><img src="Results/Evaluation.png" alt="Evaluation" width="300"/></td>
-    <td><img src="Results/classification using KNN.png" alt="classification using KNN" width="300"/></td>
+    <td><img src="Result Analysis/Input Image.png" alt="Input Image" width="300"/></td>
+    <td><img src="Result Analysis/Thresholded Image.png" alt="Thresholded Image" width="300"/></td>
+    <td><img src="Result Analysis/Cleaning Up Binary Image.png" alt="Cleaning Up Binary Image" width="300"/></td>
+    <td><img src="Result Analysis/Segmented Image.png" alt="Segmented Image" width="300"/></td>
+    <td><img src="Result Analysis/Boundingboxaroundimage.png" alt="Boundingboxaroundimage" width="300"/></td>
+    <td><img src="Result Analysis/TrainingData.png" alt="TrainingData" width="300"/></td>
+    <td><img src="Result Analysis/CSVfile.png" alt="CSVfile" width="300"/></td>
+    <td><img src="Result Analysis/classification.png" alt="classification" width="300"/></td>
+    <td><img src="Result Analysis/Evaluation.png" alt="Evaluation" width="300"/></td>
+    <td><img src="Result Analysis/classification using KNN.png" alt="classification using KNN" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><b>Input Image</b></td>
